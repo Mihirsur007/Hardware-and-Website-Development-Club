@@ -16,7 +16,7 @@ We've got you covered with a collection of resources that include:
 
 - **Code**: We'll provide you with sample code and projects that you can use to program your Arduino boards. From basic LED blinking to more complex sensor integrations, you'll find a range of coding examples to play with.
 
-- **Wiring Diagrams**: Understanding how to wire up components correctly is crucial for successful hardware projects. We'll share detailed wiring diagrams to guide you through connecting various sensors, actuators, and other components to your Arduino.
+- **Wiring Diagrams**: Understanding how to wire up components correctly is crucial for successful hardware projects. We'll share detailed wiring diagrams to guide you through connecting various sensors, servos, and other components to your Arduino.
 
 ### Web Development Resources
 
