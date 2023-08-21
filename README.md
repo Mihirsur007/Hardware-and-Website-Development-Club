@@ -1,10 +1,10 @@
-# Web Dev and Programming Club
+# Web Dev and Hardware Club
 
-Welcome to the Web Dev and Programming Club! We're excited to have you join us on this journey of exploring web development and programming. Whether you're a seasoned coder or just getting started, this club is the perfect place to expand your skills and collaborate with fellow enthusiasts.
+Welcome to the Web Dev and Hardware Club! We're excited to have you join us on this journey of exploring website and hardware development. Whether you're a seasoned coder or just getting started, this club is the perfect place to expand your skills and collaborate with fellow enthusiasts.
 
 ## About Us
 
-Our club is dedicated to all things related to web development and programming. We aim to provide a supportive and engaging environment where members can learn, share, and grow together. Whether you're interested in building interactive websites, developing web applications, or tinkering with hardware using Arduino, you'll find something exciting to explore here.
+Our club is dedicated to all things related to web development and hardware development. We aim to provide a supportive and engaging environment where members can learn, share, and grow together. Whether you're interested in building interactive websites or tinkering with hardware using Arduino, you'll find something exciting to explore here.
 
 ## What We Offer
 
@@ -12,7 +12,7 @@ We're committed to making your learning experience both enjoyable and valuable. 
 
 ### Arduino Resources
 
-Are you fascinated by the world of electronics and hardware programming? We've got you covered with a collection of resources that include:
+We've got you covered with a collection of resources that include:
 
 - **Code**: We'll provide you with sample code and projects that you can use to program your Arduino boards. From basic LED blinking to more complex sensor integrations, you'll find a range of coding examples to play with.
 
@@ -28,12 +28,9 @@ If web development is your passion, you're in for a treat. Our club offers a wea
 
 ## Join Us!
 
-We're thrilled to have you as part of our Web Dev and Programming Club. To stay up to date with our latest resources and announcements, be sure to watch this repository. Feel free to explore the code, diagrams, and tutorials we've shared, and don't hesitate to reach out if you have any questions or ideas to contribute.
+We're thrilled to have you as part of our Web Dev and Hardware Club. To stay up to date with our latest resources and announcements, be sure to check out our discord linked below. Feel free to explore the code, diagrams, and tutorials we've shared, and don't hesitate to reach out if you have any questions or ideas to contribute.
 
 Happy coding!
 
-[Join our discussions and connect with other members on our official forum](link-to-forum)
+[Join our discussions and connect with other members on our official discord](https://discord.gg/cpmcqNAnqS)
 
-[Follow us on Twitter for updates and programming tips](link-to-twitter)
-
-[Check out our website for more information about the club](link-to-website)
