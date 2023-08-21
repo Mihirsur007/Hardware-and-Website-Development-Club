@@ -1,2 +1,4 @@
 # Web-Dev-and-Hardware-Club
-A database of all the resources used in our club
+Welcome to the github of FHS Web Development and Hardware club. 
+
+## Resources
