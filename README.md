@@ -1,6 +1,6 @@
-# Web Dev and Hardware Club
+# Hardware and Website Development Club
 
-Welcome to the Web Dev and Hardware Club! We're excited to have you join us on this journey of exploring website and hardware development. Whether you're a seasoned coder or just getting started, this club is the perfect place to expand your skills and collaborate with fellow enthusiasts.
+Welcome to the Hardware and Website Development Club! We're excited to have you join us on this journey of exploring website and hardware development. Whether you're a seasoned coder or just getting started, this club is the perfect place to expand your skills and collaborate with fellow enthusiasts.
 
 ## About Us
 
